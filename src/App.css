@@ -1,0 +1,17 @@
+* {
+  /* box-sizing: border-box; */
+  font-family: "Merriweather", serif;
+}
+
+.nav-link:hover {
+  background-color: rgb(119, 114, 114);
+  text-decoration: rgb(223, 2, 152);
+  font-size: small;
+  padding: 15px;
+  display: inline-block;
+}
+.navbar-brand:hover {
+  background-color: yellowgreen;
+  transform: scale(1.4);
+}
+/* card style starts here */
